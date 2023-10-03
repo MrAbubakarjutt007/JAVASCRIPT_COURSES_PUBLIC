@@ -1,0 +1,2 @@
+# JAVASCRIPT_COURSES_PUBLIC
+JAVASCRIPT Courses for public use
