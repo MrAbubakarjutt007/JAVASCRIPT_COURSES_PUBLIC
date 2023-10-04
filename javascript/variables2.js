@@ -10,3 +10,5 @@ var  accdate = "gojra"// it old variable not use in programming
 
  //console.log(accData)//it use for singe print 
  console.table([accData,accInfo,accdate,info])//it is used for multi print console.table([])
+
+ 
