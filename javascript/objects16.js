@@ -10,3 +10,6 @@ const de_structing = {
 
 const {owner:on} = de_structing;//De_structing mathod of object,owner:on it using rename owner
 console.log(on);// ...converting into on key
+
+
+
