@@ -21,4 +21,3 @@ if(true){
        } 
        console.log(datinfo)
 }
-
